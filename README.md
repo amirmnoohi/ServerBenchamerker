@@ -151,7 +151,7 @@ This script was inspired by several great benchmarking scripts out there, includ
 
 ## License
 ```
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+            DO WHAT YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
 
  Copyright (C) 2019 Mason Rowe <mason@rowe.sh>
